@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Pawan Budhiraja",
+      "email": "pawan@gamil.com",
+      "address": "Canada",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Adity",
+      "email": "adity@gmail.com",
+      "address": "India"
+    },
+    {
+      "id": "1740060095974",
+      "name": "Paras",
+      "email": "paras.budhiraja@gmail.com",
+      "address": "India"
+    }
+  ]
+}
